@@ -397,5 +397,4 @@ dagger_p = sf.sword(sf.DAGGER, 12.5, True)
 As you can see, this cleans up our code significantly, while still providing a 
 clear interface for us to use it.
 
-### Factory Pattern Assignment
 The assignment can be found [here](https://github.com/JoshUptons/basics/assignments/design-patterns/factory)
